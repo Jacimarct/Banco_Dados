@@ -1,0 +1,21 @@
+O MySQL é um sistema de gerenciamento de banco de dados relacional
+de código aberto amplamente utilizado em desenvolvimento web e de 
+software. Ele armazena dados em tabelas com relações, usando a 
+linguagem SQL. O MySQL é conhecido por sua flexibilidade, 
+escalabilidade e segurança. É utilizado em uma variedade de 
+aplicativos, com suporte a múltiplos sistemas operacionais e 
+uma comunidade de desenvolvedores ativa.
+
+
+O Microsoft Access é um sistema de gerenciamento de banco de dados 
+de desktop desenvolvido pela Microsoft. Ele é usado para criar, 
+gerenciar e consultar bancos de dados relacionais. O Access é 
+conhecido por sua facilidade de uso e é adequado para projetos 
+menores, como bancos de dados pessoais, aplicativos de desktop e 
+pequenas aplicações de negócios. Ele é particularmente útil quando 
+você precisa criar rapidamente um banco de dados sem precisar de 
+conhecimentos avançados em programação ou bancos de dados. No entanto, 
+o Access pode ser limitado em termos de escalabilidade e desempenho em 
+comparação com sistemas de gerenciamento de banco de dados mais 
+robustos, como o MySQL, tornando-o mais adequado para projetos menores 
+e de escala limitada.
